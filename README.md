@@ -1,2 +1,2 @@
 # MiniCalculator
-for fun
+for fun edited for HNG project
